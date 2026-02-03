@@ -19,5 +19,5 @@ Tenho experiência com JavaScript, APIs REST e integração front-end + back-end
 - ⚙️ API REST com Node.js
 
 ### 📫 Contato
-- LinkedIn: (seu link)
-- Email: (seu email)
+- LinkedIn: https://www.linkedin.com/in/elierique/
+- Email: elierickcoelho.6@gmail.com
