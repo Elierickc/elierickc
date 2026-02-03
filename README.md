@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Olá, eu sou Elierique Coelho
 
-<!--
-**Elierickc/elierickc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Full Stack  
+💻 React.js | 📱 React Native  
 
-Here are some ideas to get you started:
+Sou desenvolvedor focado em criar aplicações web e mobile modernas, funcionais e escaláveis.
+Tenho experiência com JavaScript, APIs REST e integração front-end + back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+- React.js
+- React Native
+- JavaScript / TypeScript
+- Node.js
+- Git & GitHub
+
+### 📂 Projetos em destaque
+- 📱 App Mobile em React Native
+- 🌐 Aplicação Web em React.js
+- ⚙️ API REST com Node.js
+
+### 📫 Contato
+- LinkedIn: (seu link)
+- Email: (seu email)
