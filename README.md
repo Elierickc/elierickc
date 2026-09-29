@@ -20,7 +20,7 @@ Passionate about building modern, fast, and scalable applications. Specializing 
 An AI-powered virtual sales assistant built to automate prospect qualifications and conduct sales on WhatsApp 24/7.
 - **Tech Stack:** React 18, Vite, Supabase, Tailwind CSS, Shadcn UI.
 
-#### ⚡ [Pixel Perfect Site](https://github.com/Elierickc/pixel-perfect-site-80)
+#### ⚡ [Site Adão Rosa ](https://github.com/Elierickc/pixel-perfect-site-80)
 A modern single-page application with highly responsive components and type-safe layouts.
 - **Tech Stack:** React 19, Vite, TanStack Router, Tailwind CSS V4.
 
